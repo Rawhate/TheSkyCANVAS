@@ -17,3 +17,6 @@ Linke tıkladıktan sonra açılan pencereden install denilir ve tamamlanır.
 
 ### Güncelleme
 [Güncellemeleri denetle](https://github.com/ConsoleBey/TheSkyCANVAS/raw/master/minimap.user.js)
+
+### TheSkyCANVAS Discord Sunucusu
+[Discord'a Gelmek İçin Tıkla](https://discord.gg/gwX6EZZ)
