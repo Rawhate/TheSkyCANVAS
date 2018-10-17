@@ -3,7 +3,7 @@
 // @namespace    https://discord.me/theskyofficial
 // @version      3.1.2
 // @description  TheSkyOffical MiniMap
-// @author       Some Anon && Qh0stM4N
+// @author       ConsoleBey#9737
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
 // @homepage     https://github.com/ConsoleBey/TheSkyCANVAS
