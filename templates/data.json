@@ -1,16 +1,9 @@
 {
- "TheSkyOfficalBase": {
-  "name": "Base.png",
-  "x": -5634,
-  "y": -4946,
-  "width": 522,
-  "height": 522
-  },
- "TheSkyDiscordInvite": {
-  "name": "Discord_Davet.png",
-  "x": -5634,
-  "y": -4424,
-  "width": 522,
-  "height": 100
+ "SkyBase": {
+  "name": "MiniSky170x170CANVAS.png",
+  "x": 266,
+  "y": -434,
+  "width": 174,
+  "height": 174
   }
 }
