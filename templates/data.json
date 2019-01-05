@@ -5,5 +5,12 @@
   "y": -434,
   "width": 174,
   "height": 174
+  },
+ "SkyMini": {
+  "name": "MiniSkyCanvas.png",
+  "x": -793,
+  "y": -10,
+  "width": 17,
+  "height": 17
   }
 }
