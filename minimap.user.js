@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         TheSkyOffical MiniMap
+// @name         TheSkyPixel CanvasMiniMap
 // @namespace    https://discord.me/theskyofficial
 // @version      3.1.2
-// @description  TheSkyOffical MiniMap
+// @description  TheSkyPixel CanvasMiniMap
 // @author       ConsoleBey#9737
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
