@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         TheSkyPixel CanvasMiniMap
+// @name         TheSkyPlace
 // @namespace    https://discord.me/theskyofficial
 // @version      3.1.2
 // @description  TheSkyPixel CanvasMiniMap
 // @author       ConsoleBey#9737
-// @match        https://pixelcanvas.io/*
-// @match        http://pixelcanvas.io/*
+// @match        https://pixelplace.fun/*
+// @match        http://pixelplace.fun/*
 // @homepage     https://github.com/ConsoleBey/TheSkyCANVAS
 // @updateURL    https://raw.githubusercontent.com/ConsoleBey/TheSkyCANVAS/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/ConsoleBey/TheSkyCANVAS/master/minimap.user.js
@@ -176,7 +176,7 @@ function exportMd() {
         var eles = template_list[index];
         mdstr += '\n#### ' + index;
         mdstr += '\n[![](https://raw.githubusercontent.com/ConsoleBey/TheSkyCANVAS/master/images/' + eles.name + ')]';
-        mdstr += '(http://pixelcanvas.io/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
+        mdstr += '(http://pixelplace.fun/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
         mdstr += '\n';
         ttlpx += eles.width * eles.height;
     });
