@@ -7,8 +7,8 @@
 // @match        https://pixelplace.fun/*
 // @match        http://pixelplace.fun/*
 // @homepage     https://github.com/Rawhate/TheSkyCANVAS
-// @updateURL    https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/blob/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/blob/master/minimap.user.js
+// @updateURL    https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
