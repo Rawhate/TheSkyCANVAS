@@ -7,8 +7,8 @@
 // @match        https://pixelplace.fun/*
 // @match        http://pixelplace.fun/*
 // @homepage     https://github.com/Rawhate/TheSkyCANVAS
-// @updateURL    https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/master/minimap.user.js
+// @updateURL    https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/blob/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/blob/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -175,7 +175,7 @@ function exportMd() {
     Object.keys(template_list).map(function (index, ele) {
         var eles = template_list[index];
         mdstr += '\n#### ' + index;
-        mdstr += '\n[![](https://raw.githubusercontent.com/ConsoleBey/TheSkyCANVAS/master/images/' + eles.name + ')]';
+        mdstr += '\n[![](https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/master/images/' + eles.name + ')]';
         mdstr += '(http://pixelplace.fun/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
         mdstr += '\n';
         ttlpx += eles.width * eles.height;
