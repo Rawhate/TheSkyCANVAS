@@ -6,9 +6,9 @@
 // @author       ConsoleBey#9737
 // @match        https://pixelplace.fun/*
 // @match        http://pixelplace.fun/*
-// @homepage     https://github.com/ConsoleBey/TheSkyCANVAS
-// @updateURL    https://raw.githubusercontent.com/ConsoleBey/TheSkyCANVAS/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/ConsoleBey/TheSkyCANVAS/master/minimap.user.js
+// @homepage     https://github.com/Rawhate/TheSkyCANVAS
+// @updateURL    https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -17,7 +17,7 @@
 //https://raw.githubusercontent.com/user/repository/branch/filename
 //https://raw.githubusercontent.com/ConsoleBey/TheSkyCANVAS/master/README.md
 
-window.baseTepmlateUrl = 'https://raw.githubusercontent.com/ConsoleBey/TheSkyCANVAS/master';
+window.baseTepmlateUrl = 'https://raw.githubusercontent.com/Rawhate/TheSkyCANVAS/master';
 
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
@@ -290,7 +290,7 @@ function loadTemplates() {
         if (zooming_in == false && zooming_out == false) {
             document.getElementById("minimap-box").style.display = "none";
             document.getElementById("minimap-text").style.display = "block";
-            document.getElementById("minimap-text").innerHTML = "Burada Şablon Bulunamadı";
+            document.getElementById("minimap-text").innerHTML = "There is no template";
         }
     } else {
         document.getElementById("minimap-box").style.display = "block";
