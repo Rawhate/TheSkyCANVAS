@@ -1,16 +1,9 @@
 {
- "SkyBase": {
-  "name": "MiniSky170x170CANVAS.png",
-  "x": 266,
-  "y": -434,
-  "width": 174,
-  "height": 174
-  },
- "SkyMini": {
-  "name": "MiniSkyCanvas.png",
-  "x": -793,
-  "y": -10,
-  "width": 17,
-  "height": 17
+ "Desupalette": {
+  "name": "desupalette.png",
+  "x": 5856,
+  "y": -10331,
+  "width": 150,
+  "height": 200
   }
 }
